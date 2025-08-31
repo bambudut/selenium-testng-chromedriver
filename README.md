@@ -1,5 +1,5 @@
 # Selenium Chromedriver
 
 ## Run Test
-.\gradlew test
-gradle test
+- .\gradlew clean test
+- gradle clean test
